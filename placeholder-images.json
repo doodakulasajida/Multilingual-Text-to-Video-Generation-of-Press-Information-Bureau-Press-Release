@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "style-1",
+      "description": "A dramatic, moody, and realistic cinematic style.",
+      "name": "Cinematic",
+      "imageHint": "cinematic movie"
+    },
+    {
+      "id": "style-2",
+      "description": "A vibrant and colorful anime art style.",
+      "name": "Anime",
+      "imageHint": "anime vibrant"
+    },
+    {
+      "id": "style-3",
+      "description": "A soft, blended, and artistic watercolor style.",
+      "name": "Watercolor",
+      "imageHint": "watercolor texture"
+    },
+    {
+      "id": "style-4",
+      "description": "A clean, polished, and modern 3D render style.",
+      "name": "3D Render",
+      "imageHint": "3d render"
+    },
+    {
+      "id": "style-5",
+      "description": "An epic and magical fantasy art style.",
+      "name": "Fantasy",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "style-6",
+      "description": "A retro, grainy, and nostalgic vintage film style.",
+      "name": "Vintage Film",
+      "imageHint": "vintage film"
+    }
+  ]
+}
