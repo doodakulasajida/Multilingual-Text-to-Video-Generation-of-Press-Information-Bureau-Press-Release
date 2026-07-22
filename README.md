@@ -3,7 +3,7 @@
 
 ##  Project Overview
 This project aims to **automatically convert official government press releases** into engaging videos using **Artificial Intelligence**.  
-It supports **English** and **13 Indian languages**, enabling citizens to access official announcements in their preferred language through video.
+It supports **English** and **3 Indian languages**, enabling citizens to access official announcements in their preferred language through video.
 
 ---
 
