@@ -1,5 +1,5 @@
 # Batch_179_Text to Video of Various Press Released using AI
-# 📰 Text-to-Video AI Tool for Government Press Notes (13 Languages)
+# 📰 Text-to-Video AI Tool for Government Press Notes (3 Languages)
 
 ##  Project Overview
 This project aims to **automatically convert official government press releases** into engaging videos using **Artificial Intelligence**.  
