@@ -9,7 +9,7 @@ It supports **English** and **3 Indian languages**, enabling citizens to access 
 
 ## Objectives
 - **Automated Conversion**: Transform press note text into videos without manual editing.
-- **Multilingual Support**: English + 13 Indian languages for inclusivity.
+- **Multilingual Support**: English + 3 Indian languages for inclusivity.
 - **Accessibility**: Help people with limited literacy access information via audio-visual format.
 - **Government Communication Enhancement**: Faster, wider, and more engaging dissemination of official news.
 
